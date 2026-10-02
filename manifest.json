@@ -1,0 +1,6 @@
+{
+  "id": "com.dsh.blender-ai-studio",
+  "name": "Blender AI Studio",
+  "version": "0.1.1",
+  "description": "DSH plugin for local Blender connection"
+}
